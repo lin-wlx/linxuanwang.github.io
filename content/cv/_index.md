@@ -8,19 +8,20 @@ title: "CV"
 
 # Education
 
-**MSc in Statistical Science (offer received)**  
-*University of Oxford, 2025–2026*
+**MSc in Statistical Science**  
+*University of Oxford, Oct 2025 –*
+- Selected optional courses: *advanced statistical machine learning*, *advanced simulation methods*, *graphical models* and *algorithmic foundations of learning*
 
 **BSc in Mathematics and Economics**  
-*London School of Economics and Political Science, 2021–2025 (First Class Honours expected)*  
-
+*London School of Economics and Political Science, 2021–2025 (First Class Honours)*  
+- Ranked first in the year in [econometric time series and regression](https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/EC/2025_EC337.htm) with failure rate 50%
 ---
 
 # Research Experience
 
-**Polynomial-Time Approximation of Minimum Spanning Trees: Time Complexity of Simulated Annealing and Metropolis–Hastings Algorithm**  
+**Computational problem of minimum spanning trees using Simulated Annealing and Metropolis–Hastings Algorithm**  
 *LSE BSc Dissertation in Mathematics, Sep 2024 - May 2025*  
-- Research focused on performances of probabilistic random search algorithms Simulated Annealing (SA) and Metropolis Algorithm (MA) for solving the Minimum Spanning Tree (MST) problem in combinatorial optimisation
+- Research focused on performances of probabilistic random search algorithms Simulated Annealing (SA) and Metropolis Algorithm (MA) for solving the minimum spanning tree (MST) problem in combinatorial optimisation
 - Provided full proof that:
   - MA is unsuccessful on certain MST instances for arbitrary fixed temperature
   - SA with a geometric cooling schedule solves these instances in polynomial time with high probability
@@ -46,7 +47,7 @@ title: "CV"
 
 # Professional Experience
 
-**Actuarial Intern**  
+**Risk & Data Intern**  
 *Milliman LLP UK, London (Jul–Sep 2024)*  
 - Generalised Linear Models for health insurance pricing
 - Monte Carlo capital modelling (MG-ALFA)
@@ -75,7 +76,7 @@ title: "CV"
 - Excellence in Econometrics Award (Econometrics II, 2024)
 - LSE100 Award for Academic Achievement (2022)
 - 2nd place — Imperial Battle of the Bands (2023)
-- 3rd place — Optiver Python Coding Challenge (2023)
+- 10/70+ — Optiver Python Algorithmic Trading Competition between Oxford and Cambridge (2025)
 
 ---
 
